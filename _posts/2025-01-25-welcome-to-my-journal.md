@@ -1,8 +1,6 @@
 ---
 title: Welcome To My Journal
 published: true
-categories: []
-date: 2025-01-25 08:15:35.620717 +0000
 ---
 
 This is where I'm starting from. A little online journal to keep track of my thoughts, projects, and the journey of being a software engineer.
