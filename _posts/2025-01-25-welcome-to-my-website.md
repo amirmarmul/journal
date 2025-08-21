@@ -1,10 +1,10 @@
-This is where I'm starting from. A little online journal to keep track of my thoughts, projects, and the journey of being a software engineer.
+Ini adalah titik awal saya. Sebuah jurnal online kecil untuk melacak pemikiran, proyek, dan perjalanan menjadi seorang software engineer.
 
-Here's what I want this website to be:
-- **A record of my growth**: Tracking my learning and progress as a developer.
-- **A place for sharing**: Writing down what I've learned and sharing it in case it helps someone else.
-- **A bit of everything**: Maybe there will be some personal thoughts, a cool new framework I'm obsessed with, or just random ideas.
+Inilah yang saya inginkan dari website ini:
+- **Catatan pertumbuhan saya**: Melacak pembelajaran dan kemajuan saya sebagai developer.
+- **Tempat untuk berbagi**: Menuliskan apa yang telah saya pelajari dan membagikannya jika bisa membantu orang lain.
+- **Sedikit dari segalanya**: Mungkin akan ada beberapa pemikiran personal, framework keren yang sedang saya gemari, atau hanya ide-ide acak.
 
-Whatever happens here, I'm glad I've started it. Hopefully, I'll look back and see that this became something bigger over time. For now, it's just about documenting the journey, learning, and keeping track of what I'm up to.
+Apapun yang terjadi di sini, saya senang sudah memulainya. Mudah-mudahan, saya akan melihat kembali dan melihat bahwa ini menjadi sesuatu yang lebih besar seiring waktu. Untuk sekarang, ini hanya tentang mendokumentasikan perjalanan, belajar, dan melacak apa yang sedang saya lakukan.
 
-Here's to the future—let's see where this goes.
+Mari kita lihat kemana ini akan membawa kita.
